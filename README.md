@@ -5,9 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I’m currently working on **Magic-Keyboard**
+- 🔭 I’m currently working on **A backend Project **
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **JAVA**
 
 - 💬 Ask me about **MERN,DevOps**
 
